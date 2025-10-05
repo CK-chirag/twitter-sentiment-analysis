@@ -1,1 +1,2 @@
 # twitter-sentiment-analysis
+Developed an NLP-based sentiment classification model to analyze customer opinions on U.S. airlines from over 14,000 tweets. Implemented advanced text preprocessing using POS-tag-based lemmatization, stopword removal, and TF-IDF vectorization. Trained and validated multiple machine learning models, achieving ~85% accuracy with Logistic Regression. Generated a submission-ready prediction file for unseen tweets as part of a data-driven sentiment prediction challenge.
